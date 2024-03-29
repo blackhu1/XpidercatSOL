@@ -1,0 +1,156 @@
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\xpidercat.fun\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\s\poppins\v21\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000
+File Name: C:\Downloaded Web Sites\xpidercat.fun\images\T\twitter-x-logo-0339F999CF-seeklogo.com.png
+Content Type: image/png
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png
+File Name: C:\Downloaded Web Sites\xpidercat.fun\wikipedia\commons\thumb\8\82\Telegram_logo.svg\2048px-Telegram_logo.svg.png
+Content Type: image/png
+
+Uri: https://xpidercat.fun/
+File Name: C:\Downloaded Web Sites\xpidercat.fun\index.htm
+Content Type: text/html
+
+Uri: https://xpidercat.fun/css/animate.min.css
+File Name: C:\Downloaded Web Sites\xpidercat.fun\css\animate.min.css
+Content Type: text/css
+
+Uri: https://xpidercat.fun/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\xpidercat.fun\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://xpidercat.fun/css/meme.css
+File Name: C:\Downloaded Web Sites\xpidercat.fun\css\meme.css
+Content Type: text/css
+
+Uri: https://xpidercat.fun/css/style.css
+File Name: C:\Downloaded Web Sites\xpidercat.fun\css\style.css
+Content Type: text/css
+
+Uri: https://xpidercat.fun/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\xpidercat.fun\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://xpidercat.fun/fonts/batfont.ttf
+File Name: C:\Downloaded Web Sites\xpidercat.fun\fonts\batfont.ttf
+Content Type: 
+
+Uri: https://xpidercat.fun/img1.jpg
+File Name: C:\Downloaded Web Sites\xpidercat.fun\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://xpidercat.fun/img2.jpg
+File Name: C:\Downloaded Web Sites\xpidercat.fun\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://xpidercat.fun/img3.jpg
+File Name: C:\Downloaded Web Sites\xpidercat.fun\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://xpidercat.fun/img4.jpg
+File Name: C:\Downloaded Web Sites\xpidercat.fun\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://xpidercat.fun/img5.jpg
+File Name: C:\Downloaded Web Sites\xpidercat.fun\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://xpidercat.fun/img6.jpg
+File Name: C:\Downloaded Web Sites\xpidercat.fun\img6.jpg
+Content Type: image/jpeg
+
+Uri: https://xpidercat.fun/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\xpidercat.fun\js\bootstrap.bundle.min.js
+Content Type: text/javascript
+
+Uri: https://xpidercat.fun/js/fabric.js
+File Name: C:\Downloaded Web Sites\xpidercat.fun\js\fabric.js
+Content Type: text/javascript
+
+Uri: https://xpidercat.fun/js/script.js
+File Name: C:\Downloaded Web Sites\xpidercat.fun\js\script.js
+Content Type: text/javascript
+
+Uri: https://xpidercat.fun/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\xpidercat.fun\js\swiper-bundle.min.js
+Content Type: text/javascript
+
+Uri: https://xpidercat.fun/logo.png
+File Name: C:\Downloaded Web Sites\xpidercat.fun\logo.png
+Content Type: image/png
+
